@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class NQueensClient {
 
-    private static final String API_BASE_URL = "http://localhost:7000/solutions/";
+    private static final String API_BASE_URL = "https://nqueens-api-m2dq.onrender.com";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
